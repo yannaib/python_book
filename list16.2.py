@@ -1,5 +1,5 @@
 import pygame, sys, random
-white=255
+white=63
 pygame.init ()
 screen=pygame.display.set_mode ([640,480])
 screen.fill([white,white,white])
